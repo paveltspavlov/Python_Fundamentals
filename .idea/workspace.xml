@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7981d925-c48c-472e-bb7a-935588168f24" name="Changes" comment="lec 1 task 3 WiP">
-      <change afterPath="$PROJECT_DIR$/lecture_1/even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_1/num_between_1_and_100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_1/shopping.py" afterDir="false" />
+    <list default="true" id="7981d925-c48c-472e-bb7a-935588168f24" name="Changes" comment="lec 1 complete">
+      <change afterPath="$PROJECT_DIR$/exercise_1/chat_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_1/drink_something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_1/jenny_secret_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_1/maximum_multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_1/order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_1/word_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_1/word_reverse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.chat_codes.executor": "Run",
     "Python.even_numbers.executor": "Run",
+    "Python.maximum_multiple.executor": "Run",
+    "Python.order.executor": "Run",
     "Python.shopping.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -58,7 +62,29 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.shopping">
+  <component name="RunManager" selected="Python.order">
+    <configuration name="chat_codes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_1/chat_codes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
@@ -73,6 +99,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_1/even_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maximum_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_1/maximum_multiple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_1/order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,6 +175,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.order" />
+        <item itemvalue="Python.maximum_multiple" />
+        <item itemvalue="Python.chat_codes" />
         <item itemvalue="Python.shopping" />
         <item itemvalue="Python.even_numbers" />
       </list>
@@ -142,12 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720641704880</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lec 1 complete">
+      <option name="closed" value="true" />
+      <created>1720676156786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720676156786</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lec 1 task 1" />
     <MESSAGE value="lec 1 task 3 WiP" />
-    <option name="LAST_COMMIT_MESSAGE" value="lec 1 task 3 WiP" />
+    <MESSAGE value="lec 1 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="lec 1 complete" />
   </component>
 </project>
