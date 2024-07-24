@@ -1,9 +1,15 @@
-command = ""
-while command != "End":
+doubled_string = ""
 
-    if command != "SoftUni":
-        command = input()
-        buff = list(command)
-        print(f"{''.format(buff, buff)}")
-    elif command == "End":
+while True:
+    command = input()
+
+    if command == "End":
         break
+    elif command == "SoftUni":
+        continue
+
+    for char in command:
+        doubled_string += char * 2
+
+    print(doubled_string)
+    doubled_string = ""
