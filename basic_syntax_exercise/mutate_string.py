@@ -6,7 +6,7 @@ delimiter_comma = ""
 printable = ""
 i = 0
 
-for i in range (len(string_one)):
+for i in range(len(string_one)):
     if buff[i] != buff2[i]:
         buff[i] = buff2[i]
         printable = delimiter_comma.join(buff)
