@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7981d925-c48c-472e-bb7a-935588168f24" name="Changes" comment="exercise 1 WiP">
+    <list default="true" id="7981d925-c48c-472e-bb7a-935588168f24" name="Changes" comment="List Lab WiP">
+      <change afterPath="$PROJECT_DIR$/lists_basics_lab/numbers_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists_basics_lab/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_basics_lab/search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -43,22 +50,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.chat_codes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maximum_multiple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.order.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shopping.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.centuries_to_minutes.executor": "Run",
+    "Python.chat_codes.executor": "Run",
+    "Python.courses.executor": "Run",
+    "Python.double_char.executor": "Run",
+    "Python.even_numbers.executor": "Run",
+    "Python.how_much_coffee.executor": "Run",
+    "Python.list_statistics.executor": "Run",
+    "Python.maximum_multiple.executor": "Run",
+    "Python.mutate_string.executor": "Run",
+    "Python.order.executor": "Run",
+    "Python.search.executor": "Run",
+    "Python.shopping.executor": "Run",
+    "Python.sorting_hat.executor": "Run",
+    "Python.special_numbers.executor": "Run",
+    "Python.special_year.executor": "Run",
+    "Python.string_pureness.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/pavel/PycharmProjects/Programming_Basics_Python",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Python.order">
-    <configuration name="chat_codes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.search">
+    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_1/chat_codes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_1/even_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/list_statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximum_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_1/maximum_multiple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="special_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_types_lecture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_1/order.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_types_lecture/special_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="special_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_types_lecture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_1/shopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_types_lecture/special_year.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.order" />
-        <item itemvalue="Python.maximum_multiple" />
-        <item itemvalue="Python.chat_codes" />
-        <item itemvalue="Python.shopping" />
-        <item itemvalue="Python.even_numbers" />
+        <item itemvalue="Python.search" />
+        <item itemvalue="Python.list_statistics" />
+        <item itemvalue="Python.courses" />
+        <item itemvalue="Python.special_year" />
+        <item itemvalue="Python.special_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -226,14 +246,120 @@
       <option name="project" value="LOCAL" />
       <updated>1720727037835</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exercise 1 WiP">
+      <option name="closed" value="true" />
+      <created>1721073418904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721073418904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="exercise 1 WiP">
+      <option name="closed" value="true" />
+      <created>1721208427354</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721208427354</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exercise 1 WiP">
+      <option name="closed" value="true" />
+      <created>1721330905920</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721330905920</updated>
+    </task>
+    <task id="LOCAL-00008" summary="exercise 1 WiP">
+      <option name="closed" value="true" />
+      <created>1721844171701</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721844171701</updated>
+    </task>
+    <task id="LOCAL-00009" summary="exercise 1 task 8 complete">
+      <option name="closed" value="true" />
+      <created>1721929413414</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721929413414</updated>
+    </task>
+    <task id="LOCAL-00010" summary="exercise 1 task 9 complete">
+      <option name="closed" value="true" />
+      <created>1721930511829</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721930511829</updated>
+    </task>
+    <task id="LOCAL-00011" summary="exercise 1 task 10 complete">
+      <option name="closed" value="true" />
+      <created>1722448325232</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722448325232</updated>
+    </task>
+    <task id="LOCAL-00012" summary="exercise 1 task 11 WiP">
+      <option name="closed" value="true" />
+      <created>1722451212738</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722451212738</updated>
+    </task>
+    <task id="LOCAL-00013" summary="exercise 1 task 11 Completed">
+      <option name="closed" value="true" />
+      <created>1722453026325</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722453026325</updated>
+    </task>
+    <task id="LOCAL-00014" summary="data types lab WiP">
+      <option name="closed" value="true" />
+      <created>1722706359369</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722706359369</updated>
+    </task>
+    <task id="LOCAL-00015" summary="List Lab WiP">
+      <option name="closed" value="true" />
+      <created>1722796463112</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722796463112</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lec 1 task 1" />
     <MESSAGE value="lec 1 task 3 WiP" />
     <MESSAGE value="lec 1 complete" />
     <MESSAGE value="exercise 1 WiP" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 1 WiP" />
+    <MESSAGE value="exercise 1 task 8 complete" />
+    <MESSAGE value="exercise 1 task 9 complete" />
+    <MESSAGE value="exercise 1 task 10 complete" />
+    <MESSAGE value="exercise 1 task 11 WiP" />
+    <MESSAGE value="exercise 1 task 11 Completed" />
+    <MESSAGE value="data types lab WiP" />
+    <MESSAGE value="List Lab WiP" />
+    <option name="LAST_COMMIT_MESSAGE" value="List Lab WiP" />
   </component>
 </project>
