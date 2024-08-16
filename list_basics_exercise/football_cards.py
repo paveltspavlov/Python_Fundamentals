@@ -3,6 +3,7 @@ output_a = 0
 output_b = 0
 unique_cards_a = set()
 unique_cards_b = set()
+card1 = []
 
 for item in input_list:
     card = item.split("-")
@@ -14,9 +15,9 @@ for item in input_list:
         unique_cards_b.add(card[1])
         output_b += 1
 
-if (11 - len(unique_cards_a)) > 7 or (11 - len(unique_cards_b)) > 7:
-    print(f"Team A - {11 - len(unique_cards_a)}; Team B - {11 - len(unique_cards_b)}")
-
-elif (11 - len(unique_cards_a)) <= 7 or (11 - len(unique_cards_b)) <= 7:
+if (11 - len(unique_cards_a)) <= 7 or (11 - len(unique_cards_b)) <= 7:
     print(f"Team A - {11 - len(unique_cards_a)}; Team B - {11 - len(unique_cards_b)}")
     print("Game was terminated")
+
+else:
+    print(f"Team A - {11 - len(unique_cards_a)}; Team B - {11 - len(unique_cards_b)}")
